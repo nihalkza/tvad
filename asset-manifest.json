@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tvad/static/css/main.fb1dad61.css",
+    "main.js": "/tvad/static/js/main.a04c7084.js",
+    "static/js/787.30522f8e.chunk.js": "/tvad/static/js/787.30522f8e.chunk.js",
+    "index.html": "/tvad/index.html",
+    "main.fb1dad61.css.map": "/tvad/static/css/main.fb1dad61.css.map",
+    "main.a04c7084.js.map": "/tvad/static/js/main.a04c7084.js.map",
+    "787.30522f8e.chunk.js.map": "/tvad/static/js/787.30522f8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb1dad61.css",
+    "static/js/main.a04c7084.js"
+  ]
+}
